@@ -1,0 +1,33 @@
+email: 'info@dermatologiediest.be'
+phone: '+32 13 33 76 33'
+businessName: 'Dermatologie Diest'
+address: |
+  Michel Theysstraat 29 bus 7
+  3290 Diest
+googleMapsLink: 'https://goo.gl/maps/NANNQNhqscMb1xNQ7'
+googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2511.5671962737742!2d5.05151521575091!3d50.98719007955301!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c13f4c14be9bab%3A0x5545cc8041e35088!2sDr.%20Coninx%20Dagmar!5e0!3m2!1snl!2sbe!4v1643663794800!5m2!1snl!2sbe"
+hours:
+  - day: Maandag
+    times: 08:30
+    close: 12:00
+    open2: 13:30
+    close2: 19:00
+  - day: Dinsdag
+    open: Gesloten
+  - day: Woensdag
+    open: 08:30
+    close: 19:00
+    open: 08:30
+    close: 12:00
+    open2: 13:30
+    close2: 19:00
+  - day: Donderdag
+    open: 08:30
+    close: 14:00
+  - day: Vrijdag
+    open: 15:30
+    close: 19:00
+  - day: Zaterdag
+    open: Gesloten
+  - day: Zondag
+    open: Gesloten
