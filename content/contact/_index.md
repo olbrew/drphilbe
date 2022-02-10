@@ -19,4 +19,4 @@ Indien u uw afspraak wilt annuleren, kan dit tot 2 werkdagen op voorhand.
 Dit kan via telefoon naar het secretariaat of via een email naar <info@dermatologiediest.be>.
 
 ### Vond u het antwoord op uw vraag niet terug?
-Bel ons tijdens de openingsuren op <+32 13 33 76 33> of mail op <info@dermatologiediest.be>. Wij helpen u zo spoedig mogelijk verder.
+Bel ons tijdens de openingsuren op [+32 13 33 76 33](tel:+3213337633) of mail op <info@dermatologiediest.be>. Wij helpen u zo spoedig mogelijk verder.
