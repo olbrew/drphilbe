@@ -1,0 +1,44 @@
+baseURL: https://www.dermatologiediest.be/
+languageCode: be-nl
+title: Dermatologie Diest
+
+module:
+  imports:
+    path: github.com/olbrew/hugo-hero-theme
+
+params:
+  google_analytics_id: ""
+
+  logo:
+    mobile: images/logo-mobile.svg
+    mobile_height: 36px
+    mobile_width: 36px
+    desktop: logo.png
+    desktop_height: 30px
+    desktop_width: 250px
+    alt: Dermatologie Diest
+
+  homepage_meta_tags:
+    meta_description: Dagmar Coninx is een dermatoloog in Diest
+    meta_og_title: Dermatologie Diest
+    meta_og_type: website
+    meta_og_url: https://www.dermatologiediest.be
+    meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png
+    meta_og_description: Dagmar Coninx is een dermatoloog in Diest
+    meta_twitter_card: summary
+    meta_twitter_creator: '@olbrew'
+
+menu:
+  main:
+    - name: FAQ
+      url: '#faq'
+      weight: 1
+    - name: About
+      url: '#about'
+      weight: 2
+    - name: Contact
+      url: /contact/
+      weight: 2
+permalinks:
+  post: /:year/:month/:day/:slug/
+  pages: /:filename/
