@@ -30,8 +30,8 @@ params:
 
 menu:
   main:
-    - name: FAQ
-      url: '#faq'
+    - name: Home
+      url: '#home'
       weight: 1
     - name: About
       url: '#about'

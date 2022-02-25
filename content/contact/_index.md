@@ -4,15 +4,12 @@ date: 2018-02-22T17:01:34+07:00
 ---
 
 ## Vraag en antwoord
-
 ### Hoe maak ik een afspraak?
 Afspraken worden **ENKEL** telefonisch gemaakt, niet via email.
 
 ### Hoe kan je betalen?
 * **Diest**: Via Bancontact of cash
 * **Herk-de-Stad**: Enkel cash
-
-
 
 ### Afspraak annuleren?
 Indien u uw afspraak wilt annuleren, kan dit tot 2 werkdagen op voorhand.

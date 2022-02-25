@@ -1,9 +1,19 @@
 ---
-title: 'We Help Business Grow'
+title: 'About Me'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
-buttonLink: 'work'
+background: 'img/dagmar.jpg'
+#button: 'Our Work'
+#buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+## DAGMAR CONINX
+
+Ik volgde mijn opleiding geneeskunde in Diepenbeek en Leuven en studeerde af als dermatoloog in 1998.
+
+Ik ben als dermatoloog opgeleid te UZ Leuven onder leiding van professor dr. H. Degreef.
+
+Uiteraard ben ik als dermatoloog erg geïnteresseerd in alle aspecten van de huid zowel huidaandoeningen als de visuele en esthetische facetten.
+
+In dit kader volgde ik extra bijscholing bij prof Boeckx, microchirurgie en deed tijdens mijn opleiding uitgebreide ervaring op in sclerotherapie voor spataders.
+
+In kader van optimale bijscholing en kennis, ben ik ook lid van de Belgisch vereniging van Dermatologie en Venereologie en lid van de Belgische contactallergiegroep.
