@@ -23,22 +23,22 @@ params:
     meta_og_title: Dermatologie Diest
     meta_og_type: website
     meta_og_url: https://www.dermatologiediest.be
-    meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png
+    meta_og_image: https://www.dermatologiediest.be/img/gebouw.jpg
     meta_og_description: Dagmar Coninx is een dermatoloog in Diest
     meta_twitter_card: summary
     meta_twitter_creator: '@olbrew'
 
 menu:
   main:
-    - name: Home
-      url: '#home'
+    - name: Contact
+      url: '#contact'
       weight: 1
     - name: About
       url: '#about'
       weight: 2
-    - name: Contact
-      url: /contact/
-      weight: 2
+    - name: Book Appointment
+      url: '#book'
+      weight: 3
 permalinks:
   post: /:year/:month/:day/:slug/
   pages: /:filename/

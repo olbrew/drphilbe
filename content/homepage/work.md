@@ -1,9 +1,9 @@
 ---
 title: 'About Me'
 weight: 1
-background: 'img/dagmar.jpg'
-#button: 'Our Work'
-#buttonLink: 'work'
+background: 'img/dermatoloog.jpg'
+#button: 'About'
+#buttonLink: '#about'
 ---
 
 ## DAGMAR CONINX
