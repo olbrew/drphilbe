@@ -13,7 +13,7 @@
   --white: #ffffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #c34b41;
+  --primary: #8caad2;
   --secondary: #43454d;
   --success: #28a745;
   --info: #17a2b8;
@@ -132,12 +132,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #c34b41;
+  color: #8caad2;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #db948f;
+    color: #d5e0ef;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -1012,13 +1012,13 @@ mark,
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #eecdca; }
+  background-color: #dfe7f2; }
 
 .table-hover .table-primary:hover {
-  background-color: #e8bbb7; }
+  background-color: #cdd9eb; }
   .table-hover .table-primary:hover > td,
   .table-hover .table-primary:hover > th {
-    background-color: #e8bbb7; }
+    background-color: #cdd9eb; }
 
 .table-secondary,
 .table-secondary > th,
@@ -1200,12 +1200,12 @@ mark,
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #c34b41 !important; }
+  background-color: #8caad2 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #9f3b32 !important; }
+  background-color: #678fc4 !important; }
 
 .bg-secondary {
   background-color: #43454d !important; }
@@ -1300,7 +1300,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #c34b41 !important; }
+  border-color: #8caad2 !important; }
 
 .border-secondary {
   border-color: #43454d !important; }
@@ -5280,10 +5280,10 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #c34b41 !important; }
+  color: #8caad2 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #9f3b32 !important; }
+  color: #678fc4 !important; }
 
 .text-secondary {
   color: #43454d !important; }
@@ -5371,7 +5371,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger.is-active .hamburger-inner,
   .hamburger.is-active .hamburger-inner::before,
   .hamburger.is-active .hamburger-inner::after {
-    background-color: #c34b41; }
+    background-color: #8caad2; }
 
 .hamburger-box {
   width: 32px;
@@ -5386,7 +5386,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 32px;
     height: 3px;
-    background-color: #c34b41;
+    background-color: #8caad2;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -5435,7 +5435,7 @@ ol {
     flex: 1; }
 
 .header {
-  color: #c34b41;
+  color: #8caad2;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -5610,24 +5610,24 @@ ol {
         font-weight: regular;
         text-transform: uppercase;
         text-decoration: none;
-        color: #c34b41; }
+        color: #8caad2; }
         .main-menu > ul > li > a:hover {
-          background: #c34b41;
+          background: #8caad2;
           color: #ffffff;
           text-decoration: none; }
       .main-menu > ul > li.active > a {
-        background: #c34b41;
+        background: #8caad2;
         text-decoration: none;
         color: #ffffff; }
         .main-menu > ul > li.active > a:hover {
           text-decoration: none;
-          background: #c34b41;
+          background: #8caad2;
           transition: all 225ms ease-in 0s;
           color: #ffffff; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #c34b41;
+  background: #8caad2;
   top: 0;
   left: 0;
   width: 100%;
@@ -5737,7 +5737,7 @@ ul.social {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #c34b41; }
+    background: #8caad2; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -5749,7 +5749,7 @@ ul.social {
   white-space: nowrap;
   display: inline-block;
   padding: 7px 15px;
-  background: #c34b41;
+  background: #8caad2;
   font-size: 15px;
   font-weight: 600;
   text-transform: uppercase;
@@ -5760,7 +5760,7 @@ ul.social {
   transition: all 0.15s ease; }
   .button:hover {
     color: #fff;
-    background-color: #cf7068;
+    background-color: #b1c5e0;
     text-decoration: none; }
 
 .button-white {
@@ -5769,7 +5769,7 @@ ul.social {
   border: 2px solid #fff; }
 
 .title-1 {
-  color: #c34b41;
+  color: #8caad2;
   font-size: 2.4rem;
   line-height: 1.2;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system; }
@@ -5839,7 +5839,7 @@ ul.social {
     .content h2 {
       line-height: 1.4; } }
 .content h3 {
-  color: #c34b41;
+  color: #8caad2;
   line-height: 1.4;
   font-weight: 200;
   letter-spacing: 1px; }
@@ -5867,7 +5867,7 @@ ul.social {
       padding-top: 200px;
       padding-bottom: 100px; } }
   .intro h1 {
-    color: #c34b41;
+    color: #8caad2;
     font-size: 2.4rem;
     line-height: 1.2;
     font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -5922,13 +5922,13 @@ ul.social {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #c34b41, #43454d); }
+  background-image: linear-gradient(to right, #8caad2, #43454d); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #c34b41, #43454d); }
+  background-image: linear-gradient(to bottom, #8caad2, #43454d); }
 
 .strip-primary {
-  background-color: #c34b41; }
+  background-color: #8caad2; }
 
 .strip-secondary {
   background-color: #43454d; }
@@ -5993,14 +5993,14 @@ ul.social {
         font-size: 0.8rem;
         font-weight: 700; }
       .feature .feature-content p em {
-        color: #c34b41;
+        color: #8caad2;
         font-style: normal; }
 
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
-  background-color: #c34b41;
+  background-color: #8caad2;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6074,7 +6074,7 @@ html {
   background-blend-mode: overlay; }
 
 .bg-primary {
-  background-color: #c34b41; }
+  background-color: #8caad2; }
 
 .bg-secondary {
   background-color: #43454d; }
@@ -6122,7 +6122,7 @@ html {
   .work-summary .work-content {
     flex: 1;
     padding: 20px;
-    border-bottom: 2px solid #c34b41; }
+    border-bottom: 2px solid #8caad2; }
     .work-summary .work-content .work-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
@@ -6133,7 +6133,7 @@ html {
 .page-work-single h1.title {
   font-size: 3rem;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
-  color: #c34b41; }
+  color: #8caad2; }
 
 .page-work-single .work-image img {
   width: 100%;
