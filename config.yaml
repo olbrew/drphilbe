@@ -1,4 +1,5 @@
-baseURL: https://www.dermatologiediest.be/
+#baseURL: https://www.dermatologiediest.be/
+baseURL: https://olbrew.github.io/dermatologiediest.be/
 languageCode: be-nl
 title: Dermatologie Diest
 
