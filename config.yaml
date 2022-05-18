@@ -1,5 +1,5 @@
-baseURL: https://dermatologiediest.be/
-#baseURL: https://olbrew.github.io/dermatologiediest.be/
+#baseURL: https://dermatologiediest.be
+baseURL: https://dermatologiediest.com
 languageCode: be-nl
 title: Dermatologie Diest
 
@@ -37,7 +37,7 @@ menu:
     - name: About
       url: '#about'
       weight: 2
-    - name: Book Appointment
+    - name: Boek Afspraak
       url: '#book'
       weight: 3
 permalinks:
