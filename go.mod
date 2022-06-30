@@ -1,4 +1,4 @@
-module github.com/olbrew/dermatologiediest.be
+module github.com/olbrew/drphilbe
 
 go 1.17
 

@@ -1,7 +1,6 @@
-#baseURL: https://dermatologiediest.be
-baseURL: https://dermatologiediest.com
+baseURL: https://drphilbe.com
 languageCode: be-nl
-title: Dermatologie Diest
+title: Dr. Philippe Brewaeys - Plastic surgeon
 
 module:
   imports:
@@ -11,21 +10,21 @@ params:
   google_analytics_id: ""
 
   logo:
-    mobile: images/logo-mobile.svg
+    mobile: logo.png
     mobile_height: 36px
-    mobile_width: 36px
+    mobile_width: 66px
     desktop: logo.png
     desktop_height: 30px
     desktop_width: 250px
-    alt: Dermatologie Diest
+    alt: Dr. Philippe Brewaeys - Plastic surgeon logo
 
   homepage_meta_tags:
-    meta_description: Dagmar Coninx is een dermatoloog in Diest
-    meta_og_title: Dermatologie Diest
+    meta_description: Dr. Philippe Brewaeys is a plastic surgeon in Antwerp, Belgium.
+    meta_og_title: Dr. Philbe
     meta_og_type: website
-    meta_og_url: https://www.dermatologiediest.be
-    meta_og_image: https://www.dermatologiediest.be/img/gebouw.jpg
-    meta_og_description: Dagmar Coninx is een dermatoloog in Diest
+    meta_og_url: https://www.drphilbe.com
+    meta_og_image: https://www.drphilbe.com/img/hero.jpg
+    meta_og_description: Dr. Philippe Brewaeys is a plastic surgeon in Antwerp, Belgium.
     meta_twitter_card: summary
     meta_twitter_creator: '@olbrew'
 
@@ -37,7 +36,7 @@ menu:
     - name: About
       url: '#about'
       weight: 2
-    - name: Boek Afspraak
+    - name: Book appointment
       url: '#book'
       weight: 3
 permalinks:

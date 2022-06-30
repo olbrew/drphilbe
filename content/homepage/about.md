@@ -1,9 +1,9 @@
 ---
-title: 'Boek een afspraak'
+title: 'Book appointment'
 weight: 3
 background: ''
-button: 'Boek afspraak'
-buttonLink: 'https://uwagenda.myorganizer.online/?VGxSVk5FMTZhRVZaVjJSMFdWaEpNbFo1UlhsT1dFMTBUa2hrVWxJeGFFbE5WbGswVG10R1FsVnJiRTlTUlU1UFZteFdTMUpFClNrNVRhemxIVFVSUk5GcEhSVEZNTUVKckNscFlTblJaV0ZKMllrYzVibUZYVm10aFYxWjZaRU0xYVZwVE9YTlBha1YyWVhwdwpkMWxZVVhaYWFuQnFZbms1YlU5dGFERk1NbGsyV1c1VmRscHFjREphVXpnOQ=='
+button: 'Book appointment'
+buttonLink: 'https://calendly.com/drphilbe'
 ---
 
-U kan nu ook rechtstreeks via ons online secretariaat boeken. Zo kan u ook buiten de openingsuren een afspraak maken en vermijdt u wachttijden via email.
+You can now also book a first appointment or follow-up consultation directly online. This way you can book a meeting outside opening hours and avoid waiting times via email.
