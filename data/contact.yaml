@@ -1,4 +1,4 @@
-email: 'info@drphilbe.com'
+email: 'dr@drphilbe.com'
 phone: '+32 3 458 19 12'
 businessName: 'Dr. Philippe Brewaeys'
 onlineCalendarLink: 'https://calendly.com/drphilbe'
@@ -8,22 +8,23 @@ address: |
 googleMapsLink: 'https://goo.gl/maps/scVq47nYwKVRYAUK9'
 googleMapsEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2499.8792794481005!2d4.403316115758791!3d51.20287607958621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3f6e70c3b4753%3A0xb6f62b55ede14f44!2sPlastische%20Chirurgie%20Dr.%20Philippe%20Brewaeys!5e0!3m2!1sen!2sbe!4v1656593655777!5m2!1sen!2sbe"
 hours:
-  - day: Maandag
-    times: 09:00
+  - day: Monday
+    open: 14:00
     close: 18:00
-  - day: Dinsdag
+  - day: Tuesday
     open: 13:00
     close: 21:00
-  - day: Woensdag
+  - day: Wednesday
     open: 17:00
     close: 22:00
-  - day: Donderdag
+  - day: Thursday
     open: 10:00
     close: 21:00
-  - day: Vrijdag
-    open: 09:00
+  - day: Friday
+    open: Before noon via hospital
+    open2: 14:00
     close: 18:00
-  - day: Zaterdag
-    open: Gesloten
-  - day: Zondag
-    open: Gesloten
+  - day: Saturday
+    open: Closed
+  - day: Sunday
+    open: Closed
