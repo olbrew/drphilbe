@@ -1,6 +1,6 @@
 baseURL: https://drphilbe.com
 languageCode: be-nl
-title: Dr. Philippe Brewaeys - Plastic surgeon
+title: Dr Philippe Brewaeys - Plastic surgeon
 
 module:
   imports:
@@ -16,15 +16,15 @@ params:
     desktop: logo.png
     desktop_height: 30px
     desktop_width: 250px
-    alt: Dr. Philippe Brewaeys - Plastic surgeon logo
+    alt: Dr Philippe Brewaeys - Plastic surgeon logo
 
   homepage_meta_tags:
-    meta_description: Dr. Philippe Brewaeys is a plastic surgeon in Antwerp, Belgium.
-    meta_og_title: Dr. Philbe
+    meta_description: Dr Philippe Brewaeys is a plastic surgeon in Antwerp, Belgium.
+    meta_og_title: Dr Philbe
     meta_og_type: website
     meta_og_url: https://www.drphilbe.com
     meta_og_image: https://www.drphilbe.com/img/hero.jpg
-    meta_og_description: Dr. Philippe Brewaeys is a plastic surgeon in Antwerp, Belgium.
+    meta_og_description: Dr Philippe Brewaeys is a plastic surgeon in Antwerp, Belgium.
     meta_twitter_card: summary
     meta_twitter_creator: '@olbrew'
 

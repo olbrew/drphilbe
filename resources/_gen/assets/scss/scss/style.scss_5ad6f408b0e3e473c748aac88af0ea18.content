@@ -13,7 +13,7 @@
   --white: #ffffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #8caad2;
+  --primary: #5c89bc;
   --secondary: #43454d;
   --success: #28a745;
   --info: #17a2b8;
@@ -50,7 +50,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.6;
@@ -132,12 +132,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #8caad2;
+  color: #5c89bc;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #d5e0ef;
+    color: #a4bdda;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -1012,13 +1012,13 @@ mark,
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #dfe7f2; }
+  background-color: #d1deec; }
 
 .table-hover .table-primary:hover {
-  background-color: #cdd9eb; }
+  background-color: #bfd1e5; }
   .table-hover .table-primary:hover > td,
   .table-hover .table-primary:hover > th {
-    background-color: #cdd9eb; }
+    background-color: #bfd1e5; }
 
 .table-secondary,
 .table-secondary > th,
@@ -1200,12 +1200,12 @@ mark,
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #8caad2 !important; }
+  background-color: #5c89bc !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #678fc4 !important; }
+  background-color: #4370a2 !important; }
 
 .bg-secondary {
   background-color: #43454d !important; }
@@ -1300,7 +1300,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #8caad2 !important; }
+  border-color: #5c89bc !important; }
 
 .border-secondary {
   border-color: #43454d !important; }
@@ -5280,10 +5280,10 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #8caad2 !important; }
+  color: #5c89bc !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #678fc4 !important; }
+  color: #4370a2 !important; }
 
 .text-secondary {
   color: #43454d !important; }
@@ -5371,7 +5371,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger.is-active .hamburger-inner,
   .hamburger.is-active .hamburger-inner::before,
   .hamburger.is-active .hamburger-inner::after {
-    background-color: #8caad2; }
+    background-color: #5c89bc; }
 
 .hamburger-box {
   width: 32px;
@@ -5386,7 +5386,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 32px;
     height: 3px;
-    background-color: #8caad2;
+    background-color: #5c89bc;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -5435,7 +5435,7 @@ ol {
     flex: 1; }
 
 .header {
-  color: #8caad2;
+  color: #5c89bc;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -5555,8 +5555,6 @@ ol {
           padding: 10px 0 10px 8px;
           font-weight: bold;
           color: #ffffff; }
-        .sub-footer .sub-footer-inner ul li.zerostatic a {
-          color: #ffffff; }
       @media (min-width: 576px) {
         .sub-footer .sub-footer-inner ul li {
           display: inline-block;
@@ -5579,7 +5577,6 @@ ol {
 
 .logo-mobile {
   display: block;
-  width: 40px;
   padding: 10px 0 10px 0; }
   @media (min-width: 576px) {
     .logo-mobile {
@@ -5610,24 +5607,24 @@ ol {
         font-weight: regular;
         text-transform: uppercase;
         text-decoration: none;
-        color: #8caad2; }
+        color: #5c89bc; }
         .main-menu > ul > li > a:hover {
-          background: #8caad2;
+          background: #5c89bc;
           color: #ffffff;
           text-decoration: none; }
       .main-menu > ul > li.active > a {
-        background: #8caad2;
+        background: #5c89bc;
         text-decoration: none;
         color: #ffffff; }
         .main-menu > ul > li.active > a:hover {
           text-decoration: none;
-          background: #8caad2;
+          background: #5c89bc;
           transition: all 225ms ease-in 0s;
           color: #ffffff; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #8caad2;
+  background: #5c89bc;
   top: 0;
   left: 0;
   width: 100%;
@@ -5737,7 +5734,7 @@ ul.social {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #8caad2; }
+    background: #5c89bc; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -5749,7 +5746,7 @@ ul.social {
   white-space: nowrap;
   display: inline-block;
   padding: 7px 15px;
-  background: #8caad2;
+  background: #5c89bc;
   font-size: 15px;
   font-weight: 600;
   text-transform: uppercase;
@@ -5760,7 +5757,7 @@ ul.social {
   transition: all 0.15s ease; }
   .button:hover {
     color: #fff;
-    background-color: #b1c5e0;
+    background-color: #80a3cb;
     text-decoration: none; }
 
 .button-white {
@@ -5769,7 +5766,7 @@ ul.social {
   border: 2px solid #fff; }
 
 .title-1 {
-  color: #8caad2;
+  color: #5c89bc;
   font-size: 2.4rem;
   line-height: 1.2;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system; }
@@ -5780,7 +5777,7 @@ ul.social {
     color: #222222; }
 
 .title-2 {
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: light;
   color: #333333;
   font-size: 2.4rem; }
@@ -5791,7 +5788,7 @@ ul.social {
     display: block; }
 
 .title-3 {
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system;
+  font-family: "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 600;
   color: #2b2b39;
   font-size: 1.9rem;
@@ -5819,7 +5816,7 @@ ul.social {
 
 .content p {
   color: #4e4e4e;
-  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif, -apple-system; }
+  font-family: "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
 
 .content h1 {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -5839,7 +5836,7 @@ ul.social {
     .content h2 {
       line-height: 1.4; } }
 .content h3 {
-  color: #8caad2;
+  color: #5c89bc;
   line-height: 1.4;
   font-weight: 200;
   letter-spacing: 1px; }
@@ -5867,7 +5864,7 @@ ul.social {
       padding-top: 200px;
       padding-bottom: 100px; } }
   .intro h1 {
-    color: #8caad2;
+    color: #5c89bc;
     font-size: 2.4rem;
     line-height: 1.2;
     font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -5922,13 +5919,13 @@ ul.social {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #8caad2, #43454d); }
+  background-image: linear-gradient(to right, #5c89bc, #43454d); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #8caad2, #43454d); }
+  background-image: linear-gradient(to bottom, #5c89bc, #43454d); }
 
 .strip-primary {
-  background-color: #8caad2; }
+  background-color: #5c89bc; }
 
 .strip-secondary {
   background-color: #43454d; }
@@ -5993,14 +5990,14 @@ ul.social {
         font-size: 0.8rem;
         font-weight: 700; }
       .feature .feature-content p em {
-        color: #8caad2;
+        color: #5c89bc;
         font-style: normal; }
 
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
-  background-color: #8caad2;
+  background-color: #5c89bc;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6074,7 +6071,7 @@ html {
   background-blend-mode: overlay; }
 
 .bg-primary {
-  background-color: #8caad2; }
+  background-color: #5c89bc; }
 
 .bg-secondary {
   background-color: #43454d; }
@@ -6122,7 +6119,7 @@ html {
   .work-summary .work-content {
     flex: 1;
     padding: 20px;
-    border-bottom: 2px solid #8caad2; }
+    border-bottom: 2px solid #5c89bc; }
     .work-summary .work-content .work-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
@@ -6133,7 +6130,7 @@ html {
 .page-work-single h1.title {
   font-size: 3rem;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
-  color: #8caad2; }
+  color: #5c89bc; }
 
 .page-work-single .work-image img {
   width: 100%;
