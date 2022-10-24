@@ -6,4 +6,4 @@ button: 'Book appointment'
 buttonLink: 'mailto:dr@drphilbe.com'
 ---
 
-You can now also book a first appointment or follow-up consultation directly online. This way you can book a meeting outside opening hours and avoid waiting times via email.
+If you want some advice, need more information or just want to book your consultation send me an email and I will come back to you.

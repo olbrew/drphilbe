@@ -7,15 +7,9 @@ module:
     path: github.com/olbrew/hugo-hero-theme
 
 params:
-  google_analytics_id: ""
-
   logo:
     mobile: logo.png
-    mobile_height: 36px
-    mobile_width: 66px
     desktop: logo.png
-    desktop_height: 30px
-    desktop_width: 250px
     alt: Dr Philippe Brewaeys - Plastic surgeon logo
 
   homepage_meta_tags:

@@ -23,7 +23,7 @@ hours:
   - day: Friday
     open: Before noon via hospital
     open2: 14:00
-    close: 18:00
+    close2: 18:00
   - day: Saturday
     open: Closed
   - day: Sunday
