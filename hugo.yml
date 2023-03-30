@@ -30,9 +30,12 @@ menu:
     - name: About
       url: '#about'
       weight: 2
+    - name: Services
+      url: '#services'
+      weight: 3
     - name: Book appointment
       url: '#book'
-      weight: 3
+      weight: 4
 permalinks:
   post: /:year/:month/:day/:slug/
   pages: /:filename/
