@@ -6,6 +6,6 @@ featured: true
 weight: 5
 ---
 
-Blepharoplasty or eyelid surgery. 
+__Blepharoplasty__ or __eyelid surgery__.
 Skin folds, tired look, bags under the eyes are corrected by 
 upper and/or lower eyelid surgery.

@@ -6,5 +6,5 @@ featured: true
 weight: 6
 ---
 
-Bot. toxin, fillers and PRP.
+__Bot. toxin__, __fillers__ and __PRP__.
 These non-surgical procedures are done in the private practice.

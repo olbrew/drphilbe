@@ -6,6 +6,6 @@ featured: true
 weight: 3
 ---
 
-Buttocks and thigh lift. Brazilian butt lift.
+__Buttocks__ and __thigh lift__. __Brazilian butt lift__.
 After initial liposuction, the loose skin is removed.
-With BBL, the extracted fat is injected into the buttocks
+With BBL, the extracted fat is injected into the buttocks.
