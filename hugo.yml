@@ -1,5 +1,6 @@
 baseURL: https://drphilbe.com
-languageCode: be-nl
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
 title: Dr Philippe Brewaeys - Plastic surgeon
 
 module:
@@ -36,6 +37,63 @@ menu:
     - name: Book appointment
       url: '#book'
       weight: 4
+
+languages:
+  en:
+    disabled: false
+    languageCode: en
+    languageName: English
+    title: Dr Philippe Brewaeys - Plastic surgeon
+    weight: 1
+  nl:
+    disabled: false
+    languageCode: nl
+    languageName: Nederlands
+    title: Dr Philippe Brewaeys - Plastisch chirurg
+    weight: 2
+    params:
+      homepage_meta_tags:   
+        meta_description: Dr Philippe Brewaeys is een plastische chirurg in Antwerpen, België.
+        meta_og_description: Dr Philippe Brewaeys is een plastische chirurg in Antwerpen, België.
+    menu:
+      main:
+        - name: Contact
+          url: '#contact'
+          weight: 1
+        - name: Over
+          url: '#about'
+          weight: 2
+        - name: Services
+          url: '#services'
+          weight: 3
+        - name: Boek afspraak
+          url: '#book'
+          weight: 4
+  fr:
+    disabled: false
+    languageCode: fr
+    languageName: Français
+    title: Dr Philippe Brewaeys - Chirurgien plasticien et esthétique
+    weight: 3
+    params:
+      homepage_meta_tags:   
+        meta_description: Dr Philippe Brewaeys est un chirurgien plasticien à Anvers, Belgique.
+        meta_og_description: Dr Philippe Brewaeys est un chirurgien plasticien à Anvers, Belgique. 
+    menu:
+      main:
+        - name: Contact
+          url: '#contact'
+          weight: 1
+        - name: À Propos
+          url: '#about'
+          weight: 2
+        - name: Services
+          url: '#services'
+          weight: 3
+        - name: Prendre Rendez-vous
+          url: '#book'
+          weight: 4
+    
 permalinks:
   post: /:year/:month/:day/:slug/
   pages: /:filename/
