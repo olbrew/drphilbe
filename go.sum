@@ -20,3 +20,5 @@ github.com/olbrew/hugo-hero-theme v0.0.0-20231219144104-a93cead3dc05 h1:HV8RBAyB
 github.com/olbrew/hugo-hero-theme v0.0.0-20231219144104-a93cead3dc05/go.mod h1:xwRVJV9BEfuwm/IYXJ9MaiBCtdJkOUfGYD0BkfNWLks=
 github.com/olbrew/hugo-hero-theme v0.0.0-20240909184705-99809ed20825 h1:OdBN17uK0qltKw5+DCw5Kyr1OmuH/PALuNL8njF40Ko=
 github.com/olbrew/hugo-hero-theme v0.0.0-20240909184705-99809ed20825/go.mod h1:xwRVJV9BEfuwm/IYXJ9MaiBCtdJkOUfGYD0BkfNWLks=
+github.com/olbrew/hugo-hero-theme v0.0.0-20251215232417-fdb7ff58932f h1:FFCNjbGRhD/+xYOinegNqIELqCrlz5C9yVJQpDofmTY=
+github.com/olbrew/hugo-hero-theme v0.0.0-20251215232417-fdb7ff58932f/go.mod h1:xwRVJV9BEfuwm/IYXJ9MaiBCtdJkOUfGYD0BkfNWLks=
