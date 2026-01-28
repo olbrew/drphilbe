@@ -1,6 +1,6 @@
 baseURL: https://drphilbe.com
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+#defaultContentLanguageInSubdir: true
 title: Dr Philippe Brewaeys - Plastic surgeon
 
 module:
@@ -8,6 +8,9 @@ module:
     path: github.com/olbrew/hugo-hero-theme
 
 params:
+  creator: Olivier
+  creator_url: https://olbrew.me
+  
   logo:
     mobile: logo.png
     desktop: logo.png
